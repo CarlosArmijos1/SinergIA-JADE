@@ -9,3 +9,4 @@ Luis,Defensor_de_la_Justicia_Social
 Carlos,Defensor_de_la_Justicia_Social
 Carlos,Defensor_de_la_Justicia_Social
 Juan,Beneficiario_de_la_Desigualdad
+Carlos,CiudadanoComprometido
