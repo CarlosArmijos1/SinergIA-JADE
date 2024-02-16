@@ -1,0 +1,11 @@
+Carlos,Defensor_de_la_Justicia_Social
+Carlos,Indiferente
+Carlos,Indiferente
+Carlos,Indiferente
+Carlos,Beneficiario_de_la_Desigualdad
+Carlos,Indiferente
+Carlos,Defensor_de_la_Justicia_Social
+Luis,Defensor_de_la_Justicia_Social
+Carlos,Defensor_de_la_Justicia_Social
+Carlos,Defensor_de_la_Justicia_Social
+Juan,Beneficiario_de_la_Desigualdad
