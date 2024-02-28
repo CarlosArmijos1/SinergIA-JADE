@@ -5,7 +5,7 @@ Para ello se implementa un algoritmo de clasificación que es en este caso SVM y
 
 La forma en que SVM clasifica nuevos datos es determinar en qué lado del hiperplano se encuentran. Si están en un lado, se asignan a una clase; si están en el otro lado, se asignan a otra clase. SVM también puede manejar conjuntos de datos no linealmente separables mediante el uso de funciones de kernel, que transforman los datos a un espacio de características de mayor dimensión.
 
-#Modelo Conceptual:
+# Modelo Conceptual:
 
 
 ![image](https://github.com/CarlosArmijos1/SinergIA-JADE/assets/67163179/8c17a000-8ef8-4e8e-8517-94dfd64def41)
