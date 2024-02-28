@@ -10,7 +10,7 @@ La forma en que SVM clasifica nuevos datos es determinar en qué lado del hiperp
 
 ![image](https://github.com/CarlosArmijos1/SinergIA-JADE/assets/67163179/8c17a000-8ef8-4e8e-8517-94dfd64def41)
 
-#ESTRUCTURA DEL PROYECTO EN JAVA-JADE
+# ESTRUCTURA DEL PROYECTO EN JAVA-JADE
 
 ![image](https://github.com/CarlosArmijos1/SinergIA-JADE/assets/67163179/1ac25725-3f41-4ca6-99a5-5205b6883114)
 
