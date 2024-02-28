@@ -29,5 +29,8 @@ Es donde se van a compilar estos Agentes.
 Es donde se va a entrenar el algoritmo SVM para realizar la clasificación
 
 ### Librerias
-Este sistema usa la librería Jade para realizar el uso de agentes y la librería Weka que es de donde se importa el algoritmo de maquinas de soporte vectorial.
+Este sistema usa la librería Jade para realizar el uso de agentes y la librería Weka que es de donde se importa el algoritmo de maquinas de soporte vectorial
+
+## Reporte tecnico
+https://www.overleaf.com/project/65ae6fc20856a7904c48f16e
 
